@@ -1,1 +1,1 @@
-git bash workshop
+git branch b1 and b2
