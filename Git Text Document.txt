@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hai everyone
-int a=5
-=======
 int a = 5
->>>>>>> b2
